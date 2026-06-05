@@ -5,34 +5,39 @@
     "0.9.2",
     "0.9.3",
     "0.9.4",
-    "0.9.5"
+    "0.9.5",
+    "0.9.6"
   ],
   "ChangelogDescription": [
     [
-      "Pre-Released the Application"
+      "Pre-released the application"
     ],
     [
       "Added link to my GitHub page",
       "Added an icon to the executable",
-      "Added Update Check",
-      "Added Updating",
-      "Added Auto Updating Capabilities",
-      "Automatically opens Changelog after an Update"
+      "Added update Check",
+      "Added updating",
+      "Added auto updating capabilities",
+      "Automatically opens changelog after an Update"
     ],
     [
       "Updated the Update link",
-      "After an update, the old file gets deleted."
+      "After an update, the old file gets deleted"
     ],
     [
       "Fixed auto removing old version",
       "Added Uninstalling and Removing Parts of Modchan"
     ],
     [
-      "Failed to fix Updating System downloading files to incorrect folder",
+      "Failed to fix updating system downloading files to incorrect folder",
       "Implemented limits to the application window size"
     ],
     [
-      "(Hopefully) Fixed the Updating System downloading files to incorrect folder"
+      "Fixed the updating system downloading files to incorrect folder",
+      "Optimalised the downloading"
+    ],
+    [
+      "Fixed saving and loading system errors"
     ]
   ]
 }
