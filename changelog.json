@@ -6,7 +6,8 @@
     "0.9.3",
     "0.9.4",
     "0.9.5",
-    "0.9.6"
+    "0.9.6",
+    "0.9.7"
   ],
   "ChangelogDescription": [
     [
@@ -30,7 +31,7 @@
     ],
     [
       "Failed to fix updating system downloading files to incorrect folder",
-      "Implemented limits to the application window size"
+      "Limited the application window size"
     ],
     [
       "Fixed the updating system downloading files to incorrect folder",
@@ -38,6 +39,10 @@
     ],
     [
       "Fixed saving and loading system errors"
+    ],
+    [
+      "Flipped the order of changelog combo box",
+      "Added No Connection screen when no connection is detected on the update and changelog page"
     ]
   ]
 }
